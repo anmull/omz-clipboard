@@ -18,5 +18,7 @@ antigen bundle anmull/omz-clipboard
 
 ### Manual
 
+```
 git clone https://github.com/anmull/omz-clipboard
 source "omz-clipboard/clipboard.plugin.zsh"
+```
